@@ -1,0 +1,9 @@
+.navbar {
+    background-color: #000; /* Color de fondo del navegador */
+    position: fixed;
+}
+
+/* Estilo para el color del texto del menú */
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff; /* Color del texto del menú */
+}
